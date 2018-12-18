@@ -1,0 +1,17 @@
+Important points:
+There are three matlab files for this assignment.
+These are:
+1)assignment-1main.m
+2)loadtrainingimages.m
+3)loadtsestimages.m
+loadtrainingimages.m is for laoding the training images.
+loadtestimages.m is for laoding the test images.
+
+Run the assignment-1main in matlab.
+
+You will be asked to input the number of eigen faces.
+
+Output:
+	The code will display every test image and the closest training image with respect to the test image and at the end you will get the efficiency of the algorithm.
+
+
